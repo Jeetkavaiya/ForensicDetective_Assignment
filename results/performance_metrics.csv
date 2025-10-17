@@ -1,0 +1,33 @@
+model,class,precision,recall,f1-score,support
+SVM,google_docs,1,1,1,1130
+SVM,html,1,1,1,1000
+SVM,latex,0.85,1,0.92,1000
+SVM,python,0.99,0.7,0.82,1000
+SVM,word,0.89,0.99,0.94,1000
+SVM,accuracy,,,0.94,5130
+SVM,macro avg,0.95,0.94,0.94,5130
+SVM,weighted avg,0.95,0.94,0.94,5130
+Random Forest,google,1,1,1,1412
+Random Forest,html,0.93,0.95,0.94,1250
+Random Forest,latex,0.93,0.91,0.92,1250
+Random Forest,python,0.94,0.9,0.92,1250
+Random Forest,word,0.92,0.96,0.94,1250
+Random Forest,accuracy,,,0.95,6412
+Random Forest,macro avg,0.95,0.95,0.95,6412
+Random Forest,weighted avg,0.95,0.95,0.95,6412
+XGBoost,google,1,1,1,1412
+XGBoost,html,0.92,0.98,0.95,1250
+XGBoost,latex,0.96,0.9,0.93,1250
+XGBoost,python,0.95,0.89,0.92,1250
+XGBoost,word,0.91,0.97,0.94,1250
+XGBoost,accuracy,,,0.95,6412
+XGBoost,macro avg,0.95,0.95,0.95,6412
+XGBoost,weighted avg,0.95,0.95,0.95,6412
+SGD,Latex_pdfs,0.85,0.96,0.9,1250
+SGD,google_docs_pdfs,1,1,1,1412
+SGD,html_pdfs,1,1,1,1250
+SGD,python_pdfs,0.87,0.68,0.77,1250
+SGD,word_pdfs,0.87,0.94,0.9,1250
+SGD,accuracy,,,0.92,6412
+SGD,macro avg,0.92,0.92,0.91,6412
+SGD,weighted avg,0.92,0.92,0.92,6412
