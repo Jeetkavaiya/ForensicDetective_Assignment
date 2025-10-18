@@ -369,8 +369,6 @@ This project is developed for educational and research purposes as part of the 5
 
 ## Contact
 
-For questions or collaboration inquiries, please contact the team members listed above.
-=======
+- For questions or collaboration inquiries, please contact the team members listed above.
 
->>>>>>> 3afb5bb92f42cfd06342892b5bfc87aeaa4d1018
 
