@@ -36,7 +36,7 @@ This capability is critical in digital forensics for:
 - **Multi-Source PDF Generation**: Automated scripts for generating PDFs from 5 different sources
 - **Metadata-Based Classification**: Non-invasive analysis using only PDF metadata
 - **Multiple ML Models**: Implementation of XGBoost, Random Forest, SVM, and SGD classifiers
-- **High Accuracy**: Top models achieve 96% accuracy on 4-class classification
+- **High Accuracy**: Top models achieve 95% accuracy on 4-class classification
 - **Scalable Pipeline**: Handles thousands of documents efficiently
 - **Comprehensive Analysis**: Confusion matrices, performance metrics, and statistical evaluation
 
@@ -355,7 +355,7 @@ The confusion matrices (available in `results/confusion_matrices/`) reveal:
 
 ## License
 
-This project is developed for educational and research purposes as part of the 510 - Basics of AI course.
+- This project is developed for educational and research purposes as part of the 510 - Basics of AI course.
 
 ---
 
@@ -367,4 +367,4 @@ This project is developed for educational and research purposes as part of the 5
 
 ## Contact
 
-For questions or collaboration inquiries, please contact the team members listed above.
+- For questions or collaboration inquiries, please contact the team members listed above.
